@@ -5,10 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## 0.1.0 (2026-09-10)
 
-Planned initial release: **0.1.0**. Release Please will set the repository version
-and create the tag and GitHub Release through the first Release PR.
+### Features
+
+* initialize skills template for v0.1.0 ([7d19d46](https://github.com/zmjlucas/skills-template/commit/7d19d46251734d84bd34718aebf404cfdb00d010))
 
 ### Added
 
