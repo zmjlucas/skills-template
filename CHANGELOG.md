@@ -7,15 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 0.1.0 (2026-09-10)
 
-
 ### Features
 
 * initialize skills template for v0.1.0 ([7d19d46](https://github.com/zmjlucas/skills-template/commit/7d19d46251734d84bd34718aebf404cfdb00d010))
-
-## [Unreleased]
-
-Planned initial release: **0.1.0**. Release Please will set the repository version
-and create the tag and GitHub Release through the first Release PR.
 
 ### Added
 
