@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Local agent configuration and installed skills
+.agents
+.claude
+AGENTS.md
+skills-lock.json
+
+# Local planning artifacts
+.superpowers/
+docs/superpowers/
+
+# Local development configuration
+dev-deploy.local.json
+
+# Test output, logs, and temporary files
+test-results/
+tmp/
+*.log
+
+# macOS metadata
+.DS_Store

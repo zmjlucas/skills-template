@@ -1,0 +1,7 @@
+interface:
+  display_name: "English Skill Template"
+  short_description: "Minimal placeholder for English-speaking skill developers."
+  default_prompt: "Use $template-skill-en."
+
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,20 @@
+{
+  "name": "skills-template-development",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.20.0"
+  },
+  "scripts": {
+    "dev:deploy": "node scripts/deploy-dev.mjs",
+    "lint:skills": "node scripts/validate-skills.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:install": "node scripts/test-install.mjs",
+    "check": "npm run lint:skills && npm test && npm run test:install"
+  },
+  "devDependencies": {
+    "skills": "1.5.25",
+    "yaml": "2.8.3"
+  }
+}
